@@ -36,7 +36,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
 <img src="https://img.icons8.com/color/64/000000/javascript.png"/>
 <img src="https://img.icons8.com/ios-filled/64/000000/jquery.png"/>
-<img src="https://img.icons8.com/color/64/000000/ajax.png"/>
+
 <img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/64/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/64/000000/git.png"/>
