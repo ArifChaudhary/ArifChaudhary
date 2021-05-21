@@ -50,6 +50,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/>
 <img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png"/>
 </p>
+---
+[![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifChudhary)](https://github.com/ArifChudhary/github-readme-stats)
+
 
 #### 🔗 Social Links
 <a href="https://www.ecoderpoint.com" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/></a>
