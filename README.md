@@ -39,8 +39,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img src="https://img.icons8.com/color/64/000000/ajax.png"/>
 <img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/64/000000/bootstrap.png"/>
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][ArifChaudhary]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][ArifChaudhary]
+<img src="https://img.icons8.com/color/64/000000/git.png"/>
+<img src="https://img.icons8.com/color/64/000000/github.png"/>
 <img src="https://img.icons8.com/plasticine/64/000000/maximize-window--v1.png"/>
 </p>
 
