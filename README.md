@@ -56,6 +56,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://www.ecoderpoint.com" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/></a>
 <a href="https://www.instagram.com/_arifchaudhary/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
 <a href="https://www.linkedin.com/in/arif-chaudhary-0510b6127/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
-<a href="mailto:arif.chaudhary.geu864@gmail.com@gmail.com" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
+<a href="mailto:arif.chaudhary.geu864@gmail.com" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
 <a href="https://wa.me/918755473100" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/whatsapp.png"/></a>
 <a href="tel:+91-8755473100" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/phone.png"/></a>
