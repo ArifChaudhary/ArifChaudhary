@@ -16,7 +16,7 @@ customer requirements.
 ![Arif's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ArifChaudhary&theme=dracula)
 
 #### ✍️ Blog & Writing
-Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://www.ecoderpoint.com" target="_blank">blogs</a>
+Apart from coding, I also maintain a blog - you can find my articles on my website at. <a href="https://www.ecoderpoint.com" target="_blank">blogs</a>
 
 <img align="right" src="static/qrcode.png" width="150" height="150"/>
 
