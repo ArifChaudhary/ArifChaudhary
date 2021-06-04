@@ -7,7 +7,7 @@ web applications.
 customer requirements.
 -Highly proficient in multiple types of programming languages.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to running and boxing.
 
 #### 📈 GitHub Stats
