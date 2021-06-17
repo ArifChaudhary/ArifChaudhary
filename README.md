@@ -1,5 +1,4 @@
 ### Hi there I am 🧑‍🎓 Arif
-👋 Hello, I'm [Awais](https://twitter.com/MrAhmadAwais/). Nice to meet you. Now let me introduce myself in 3rd person. Weird. ;)
 # Arif Chaudhary
 -Knowledgeable and skilled software development professional accustomed to working with
 web applications.
