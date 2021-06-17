@@ -25,7 +25,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <li>A intermediate professional Django full stack developer.</li>
 <li>Currently seeking job as a backend developer.</li>
 <li>Python enthusiast</li>
-<li>Official site : <a href="https://www.ecoderpoint.com" target="_blank">www.ecoderpoint.com</a><b> </b></li>
+<li>Official site : <a href="https://www.ecoderpoint.com"</a></li>
 </ul>
 
 #### 🛠️ Technologies & Tools
